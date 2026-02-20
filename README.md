@@ -50,5 +50,3 @@ This is a personal learning repository, but suggestions and improvements are wel
 
 **Jewin Jinson**
 Learning Machine Learning — one gradient at a time.
-
-Just tell me which style you prefer.
