@@ -48,7 +48,7 @@ Using libraries is powerful — but building models manually helps to:
 
 ### Contributions
 
-This is a personal learning repository, but suggestions and improvements are welcome.
+#### This is a personal learning repository, but suggestions and improvements are welcome.
 ---
 
 ### Author
