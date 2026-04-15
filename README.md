@@ -1,33 +1,33 @@
-# Machine Learning From Scratch
+## Machine Learning From Scratch
 
 This repository documents my journey of learning **Machine Learning from the ground up**, focusing on building algorithms **from scratch** and comparing with library models.
 
-The goal is to deeply understand the mathematics, intuition, and implementation behind ML algorithms.
+###### The goal is to deeply understand the mathematics, intuition, and implementation behind ML algorithms.
 ---
 
-## Objectives
+### Objectives
 
 * Understand core ML concepts mathematically
 * Implement algorithms without libraries and compare their performances
 * Strengthen intuition about optimization, cost functions, and gradients
 ---
 
-## Topics Covered
+### Topics Covered
 
-### 1. Linear Regression
+#### 1. Linear Regression
 
 * Cost Function
 * Gradient Descent
 
-### 2. Multiple Linear Regression
+#### 2. Multiple Linear Regression
 
 * Use Multiple Parameter to Linear Regression
 * Changes in Model Equation 
 
-*(More topics will be added as I progress.)*
+###### (More topics will be added as I progress.)
 ---
 
-## Tech Stack
+### Tech Stack
 
 * Python
 * NumPy
@@ -36,7 +36,7 @@ The goal is to deeply understand the mathematics, intuition, and implementation 
 * Jupyter Notebook
 ---
 
-## Why From Scratch?
+### Why From Scratch?
 
 Using libraries is powerful — but building models manually helps to:
 
@@ -46,12 +46,12 @@ Using libraries is powerful — but building models manually helps to:
 * Build strong ML foundations
 ---
 
-## Contributions
+### Contributions
 
 This is a personal learning repository, but suggestions and improvements are welcome.
 ---
 
-## Author
+### Author
 
 **Jewin Jinson**
 Learning Machine Learning — one gradient at a time.
