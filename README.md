@@ -19,6 +19,11 @@ The goal is to deeply understand the mathematics, intuition, and implementation 
 * Cost Function
 * Gradient Descent
 
+### 2. Multiple Linear Regression
+
+* Use Multiple Parameter to Linear Regression
+* Changes in Model Equation 
+
 *(More topics will be added as I progress.)*
 ---
 
